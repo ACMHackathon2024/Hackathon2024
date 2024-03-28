@@ -1,8 +1,9 @@
-Welcome to Hackathon 2024!
-Introduction
+# Welcome to Hackathon 2024!
+
+### Introduction
 Welcome participants to the Hackathon 2024! This GitHub Classroom repository is your gateway to accessing the questions for the hackathon. Below are the guidelines and instructions you need to follow to ensure a smooth and fair competition.
 
-Guidelines
+### Guidelines
 Accessing Questions: The questions for the hackathon will be provided within this repository. You can find them in the designated folder.
 
 Time Limit: Each question will have a time limit of 2 hours for completion. Please ensure that you manage your time effectively to provide your answers within the given timeframe.
